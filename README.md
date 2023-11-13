@@ -1,17 +1,22 @@
 <h1>Crud-app</h1>
-<p>Create Read Update Delete</p>
+<p>Overview
+This React CRUD application provides a simple and intuitive user interface for managing a collection of data. With this app, users can perform basic CRUD operations, enabling them to create, read, update, and delete items within the dataset.</p>
 
-<ul>
+<p>Features
+Create: Add new items to the dataset using a user-friendly form.
+Read: View the entire list of items in a clean and organized layout.
+Update: Easily edit existing items with the built-in update form.
+Delete: Remove items from the dataset with a single click.</p>
 
-<li>Projeye stillendirme için Bootstrap dahil edildi</li>
-<li>1-Yeni eklenecek elemanı almak için bir form yapısı oluştur</li>
-<li>2-Input içerisine girilen veriyi oku</li>
-<li>3-İçeriğinde tarih,okundu bilgisi ve inputtan gelen ismi tutan bir obje oluştur</li>
-<li>4-Ekle butonuna basıldığında oluşturulan objeyi bir diziye aktar ve inputu temizle</li>
-<li>5-bookList stateinde tutulan kitapları map metodu ile ekranda bir cardda göster</li>
-<li>6-BookCarddaki sil butonuna tıklanıldığında kitabın silinmesi işlemi</li>
-
+<h3>The technologies used</h3>
 
 
-</ul>
-# React-Crud-App
+React: A JavaScript library for building user interfaces.
+npm: The package manager for JavaScript.
+
+<p>Contributing
+We welcome contributions! If you'd like to contribute to this project, fork the repository, make your changes, and submit a pull request.</p>
+
+<h3>The screenshot of the project</h3>
+
+![](screenshot.gif)
